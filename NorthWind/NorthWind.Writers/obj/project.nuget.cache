@@ -4,7 +4,7 @@
   "success": true,
   "projectFilePath": "C:\\arquitectura_z\\NorthWind\\NorthWind.Writers\\NorthWind.Writers.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\zemog\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\alejandro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
